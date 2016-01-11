@@ -1,0 +1,12 @@
+D:\настя\Archive\Archive\bin\Debug\Archive.exe.config
+D:\настя\Archive\Archive\obj\Debug\Archive.Form1.resources
+D:\настя\Archive\Archive\obj\Debug\Archive.Properties.Resources.resources
+D:\настя\Archive\Archive\obj\Debug\Archive.csproj.GenerateResource.Cache
+D:\настя\Archive\Archive\bin\Debug\Archive.exe
+D:\настя\Archive\Archive\bin\Debug\Archive.pdb
+D:\настя\Archive\Archive\obj\Debug\Archive.exe
+D:\настя\Archive\Archive\obj\Debug\Archive.pdb
+D:\настя\Archive\Archive\obj\Debug\Archive.csprojResolveAssemblyReference.cache
+D:\настя\Archive\Archive\obj\Debug\Archive.Form2.resources
+D:\настя\Archive\Archive\obj\Debug\Archive.Form3.resources
+D:\настя\Archive\Archive\obj\Debug\Archive.prBar.resources
